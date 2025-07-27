@@ -7,8 +7,8 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import aiohttp # Для асинхронных HTTP-запросов к Subgram API
 
 # --- Константы (замените своими данными) ---
-TELEGRAM_BOT_TOKEN = "ВАШ_ТЕЛЕГРАМ_БОТ_ТОКЕН"  # Получите у @BotFather
-SUBGRAM_API_KEY = "ВАШ_SUBGRAM_API_КЛЮЧ"      # Получите в @subgram_officialbot
+TELEGRAM_BOT_TOKEN = "7991051885:AAGgVt3IlyQNjDaCfLYxOsUtfQpBu7HHqsA"  # Получите у @BotFather
+SUBGRAM_API_KEY = "abbbb8034d23f4674f37d2c9d50d2a93a0c0302892aca2a4cf9293690ae1e8a8"      # Получите в @subgram_officialbot
 
 # Флаг: True, если бот добавлен в Subgram БЕЗ токена (тогда нужно передавать доп. параметры)
 # False, если бот добавлен ВМЕСТЕ с токеном.
